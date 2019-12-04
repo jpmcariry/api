@@ -23,7 +23,6 @@ Pillow==6.2.1
 Pygments==2.4.2
 PyJWT==1.7.1
 pytz==2019.1
-pywin32==226
 PyYAML==5.1.2
 requests==2.22.0
 six==1.12.0
